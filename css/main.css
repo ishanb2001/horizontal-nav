@@ -1,21 +1,5 @@
-#nav
-
-backround-color: brown;
-height: 10px;
-font-size: 8px;
-font-weight: bold;
-font: Sans-Serif
-}
-
-#nav ul {
-
-  padding:6em;
-  margin: 3em;
-  list-style-type: none;
-  text-align: center;
-}
-#nav li {
-  display: inline;
-  padding:6em;
-  vertical-align:middle;
+.body {
+  background-color:#f4f4f4;
+  color: #555555;
+  font-size: 30px;
 }

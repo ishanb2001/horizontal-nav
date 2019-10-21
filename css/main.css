@@ -1,5 +1,29 @@
-.body {
-  background-color:#f4f4f4;
-  color: #555555;
-  font-size: 30px;
+h1 {
+  text-align: center;
+  background-color: red;
+  font-family:'Bevan',sans-serif;
+  font-weight:300;
+  color: white;
+  font-size: 2rem;
+}
+
+div {
+  text-align: center;
+}
+
+
+a.button1{
+ display:inline-block;
+ padding:0.35em 1.2em;
+
+ margin:0 0.3em 0.3em 0;
+
+
+ text-decoration:none;
+ font-family:'Bevan',sans-serif;
+ font-weight:300;
+ color: white;
+ background-color: black;
+ text-align:center;
+ transition: all 0.2s;
 }

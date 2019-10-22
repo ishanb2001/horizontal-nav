@@ -27,6 +27,9 @@ click.button{
  font-weight: normal;
  color: #dbd6cf;
  background-color: #713837;
+ text-align: center;
+ border-radius: 5px;
+}
 
 
   text-decoration: none;

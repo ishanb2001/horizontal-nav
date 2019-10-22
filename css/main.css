@@ -30,13 +30,6 @@ click.button{
  text-align: center;
  border-radius: 5px;
 }
-
-
-  text-decoration: none;
-  font-family: Bevan, sans-serif;
-  font-weight: 300;
-  color: white;
-  background-color: #713837;
-  text-align: center;
-  transition: all .2s;
+click.button:hover{
+  background-color: #f33;
 }

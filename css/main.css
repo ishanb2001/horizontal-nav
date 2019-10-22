@@ -32,4 +32,5 @@ click.button{
 }
 click.button:hover{
   background-color: #f33;
+  color: #dbd6cf;
 }

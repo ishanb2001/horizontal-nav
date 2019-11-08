@@ -24,29 +24,28 @@ nav ul{
 }
 
 a {
-  color: #fff;
+  color: #dbd6cf;
   text-decoration: none;
-}
-
-ul {
-  color: #fff
-}
-
-li{
-  display:inline-block;
+  background-color: #713837;
   padding:.6em .5em .75em;
   font-size: 1.25rem;
   line-height: 1.5em;
   text-decoration:none;
   font-family: sans-serif;
   font-weight: normal;
-  color: #dbd6cf;
-  background-color: #713837;
   text-align: center;
   border-radius: 5px;
 }
 
-.button:hover{
+ul {
+  color: #fff;
+}
+
+li {
+  display:inline-block;
+}
+
+a:hover{
   background-color: #f33;
   color: #dbd6cf;
 }
